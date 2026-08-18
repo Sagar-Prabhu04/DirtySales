@@ -1,2 +1,2 @@
-#DirtySales
+  #DirtySales
 Retail Orders Data Analysis & Interactive Dashboard — A complete Excel-based data analytics project involving raw retail order data cleaning, transformation, KPI analysis, pivot tables, and interactive dashboards. The dataset contains 300 orders with information on customers, cities, products, categories, quantities, pricing, discounts, salespersons, payment modes, and order status. The project analyzes sales performance across categories, cities, salespersons, payment methods, and months.
